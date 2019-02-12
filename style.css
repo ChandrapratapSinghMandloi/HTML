@@ -1,15 +1,59 @@
 #logo
 {
 	float:left;
-	padding: 0% 0% 0% 10%;
+	padding: 1% 0% 0% 8%;
 }
 .call
 {
 	float: left;
-	 margin: 2% 15% 0% 0%;
+	 padding: 2% 0% 0% 22%;
 }
 #ta
 {
+	float: right;
+	margin: 3% 1% 0% 0%;
+}
+
+#menu-outer {
+	height: 82px;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 700px;
+	list-style: none;
+	padding-top: 0%;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
+	li a
+{
+	padding: 14px;
+	text-decoration: none;
+}
+li a:hover
+{
+	background-color: #BDB76B;
+}
+#play
+{
+	padding: 20% 0% 0% 30%;
+}
+#br
+{
+	padding: 10% 0% 0% 50%;
+}
+#c
+{
+		padding: 70% 0% 0% 90%;
+}
+#pla
+{
 	float: left;
-	margin: 2% 1% 0% 0%;
+	padding: 0% 0% 0% 0%;
 }
